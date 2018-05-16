@@ -1,0 +1,4 @@
+helm 2.8.0
+helm init
+$ docker pull huwanyang168/tiller:v2.8.0
+$ docker tag huwanyang168/tiller:v2.8.0 gcr.io/kubernetes-helm/tiller:v2.8.0
